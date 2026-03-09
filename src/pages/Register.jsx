@@ -45,7 +45,7 @@ export default function Register() {
 
         <button
           onClick={() => navigate("/account")}
-          className="w-full py-3 mt-10 text-white rounded-md font-medium bg-gradient-to-r from-purple-600 to-purple-500"
+          className="w-full py-3 mt-10 text-white rounded-md font-medium bg-linear-to-r from-purple-600 to-purple-500"
         >
           Create Account
         </button>

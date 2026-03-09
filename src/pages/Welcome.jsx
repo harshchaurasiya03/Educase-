@@ -18,7 +18,7 @@ export default function Welcome() {
 
         <button
           onClick={() => navigate("/register")}
-          className="w-full py-3 mb-3 rounded-md text-white font-medium bg-gradient-to-r from-purple-600 to-purple-500"
+          className="w-full py-3 mb-3 rounded-md text-white font-medium bg-linear-to-r from-purple-600 to-purple-500"
         >
           Create Account
         </button>
